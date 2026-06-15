@@ -2,9 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=header&text=arshnah&fontSize=50&fontColor=58a6ff&animation=fadeIn" width="100%"/>
 
-# Arshdeep Singh ੴ
-### *how is he "Built like that"* 🤌
-
+# Arshdeep Singh 
+### hi, lol
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Developer+from+Mumbai+%F0%9F%87%AE%F0%9F%87%B3;C%23+%2F+.NET+enthusiast+%F0%9F%92%BB;Building+things+nobody+asked+for+%F0%9F%94%A5;Music+%7C+Code+%7C+Repeat+%F0%9F%8E%A7)](https://git.io/typing-svg)
 
 </div>
@@ -14,9 +13,6 @@
 ```js
 const arshnah = {
   name     : "Arshdeep Singh",
-  location : "Mumbai, India 🌆",
-  vibe     : "Built like that 💪",
-  mood     : "Listening to something & shipping code 🎧",
   contact  : "arshbdarsh@gmail.com"
 };
 ```
