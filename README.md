@@ -68,9 +68,7 @@ const arshnah = {
 
 ### 🎵 Last.fm — Recently Played
 
-> ⚠️ Replace `YOUR_LASTFM_USERNAME` below with your actual Last.fm username
-
-[![Last.fm](https://lastfm-recently-played.vercel.app/api?user=YOUR_LASTFM_USERNAME&count=5)](https://www.last.fm/user/YOUR_LASTFM_USERNAME)
+[![Last.fm](https://lastfm-recently-played-readme-seven.vercel.app/api?user=arshnahbtw&count=5&loved=true)](https://www.last.fm/user/arshnahbtw)
 
 ---
 
