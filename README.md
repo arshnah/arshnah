@@ -66,9 +66,21 @@ const arshnah = {
 
 ---
 
-### 🎵 Last.fm — Recently Played
+<div align="center">
 
-[![Last.fm](https://lastfm-recently-played-readme-seven.vercel.app/api?user=arshnahbtw&count=5&loved=true)](https://www.last.fm/user/arshnahbtw)
+### 🎧 What's Playing
+
+<a href="https://www.last.fm/user/arshnahbtw">
+  <img src="https://img.shields.io/badge/LAST.FM-arshnahbtw-D51007?style=for-the-badge&logo=lastdotfm&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<a href="https://www.last.fm/user/arshnahbtw">
+  <img src="https://lastfm-recently-played-readme-seven.vercel.app/api?user=arshnahbtw&count=5&loved=true&width=500" alt="arshnahbtw Last.fm" />
+</a>
+
+</div>
 
 ---
 
