@@ -84,8 +84,6 @@ const arshnah = {
 
 <div align="center">
 
-*Pipal da ped hove, da ganne da rass hove...* 💀
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=arshnah&color=58a6ff&style=flat-square&label=Profile+Views)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=80&section=footer" width="100%"/>
