@@ -70,14 +70,16 @@ const arshnah = {
 
 ### 🎧 What's Playing
 
+<!-- NOW PLAYING — cover art card -->
 <a href="https://www.last.fm/user/arshnahbtw">
-  <img src="https://img.shields.io/badge/LAST.FM-arshnahbtw-D51007?style=for-the-badge&logo=lastdotfm&logoColor=white" />
+  <img src="https://lastfm-profile-readme.vercel.app/api/arshnahbtw?color=0d1117&textColor=ffffff&isRounded=true&displayName=true" alt="Now Playing" />
 </a>
 
 <br/><br/>
 
+<!-- RECENT TRACKS LIST -->
 <a href="https://www.last.fm/user/arshnahbtw">
-  <img src="https://lastfm-recently-played-readme-seven.vercel.app/api?user=arshnahbtw&count=5&loved=true&width=500" alt="arshnahbtw Last.fm" />
+  <img src="https://lastfm-recently-played-readme-seven.vercel.app/api?user=arshnahbtw&count=5&loved=true&width=500" alt="Recently Played" />
 </a>
 
 </div>
