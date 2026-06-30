@@ -1,11 +1,3 @@
-<div align="center">
-<table border="0" cellspacing="0" cellpadding="20">
-<tr>
-<td width="260" align="center" valign="middle">
-<img src="./iceman.jpg" width="240" style="border-radius:8px"/>
-</td>
-<td valign="top">
-
 ```
                                  _/                            _/
     _/_/_/  _/  _/_/    _/_/_/  _/_/_/    _/_/_/      _/_/_/  _/_/_/
@@ -27,11 +19,6 @@ $ cat contact.txt
   → arshjbdarsh@gmail.com
   → arshnah          (discord)
 ```
-
-</td>
-</tr>
-</table>
-</div>
 
 ---
 
@@ -57,18 +44,6 @@ $ cat stack.sh
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-```
-$ cat stats.sh
-```
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arshnah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="155"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshnah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="155"/>
-</p>
 
 ---
 
