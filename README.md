@@ -4,7 +4,7 @@
 
 building things nobody asked for // full-stack
 
-[website](https://arshnah.vercel.app) &nbsp;|&nbsp; [discord](https://discord.com/users/arshnah) &nbsp;|&nbsp; [email](mailto:arshjbdarsh@gmail.com)
+[website](https://arshnah.vercel.app) &nbsp;|&nbsp; [discord](https://discord.com/users/300137175238836225) &nbsp;|&nbsp; [email](mailto:arshjbdarsh@gmail.com)
 
 </div>
 
