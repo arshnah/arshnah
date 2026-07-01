@@ -10,7 +10,7 @@ building things nobody asked for // full-stack
 
 <div align="center">
 <a href="https://www.last.fm/user/arshnahbtw">
-  <img src="https://lastly-pi.vercel.app/api/overall?username=arshnahbtw&theme=dark" alt="music stats" width="100%"/>
+  <img src="https://lastly-pi.vercel.app/api/recent?username=arshnahbtw&theme=dark" alt="now playing" width="500"/>
 </a>
 </div>
 
