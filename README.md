@@ -21,10 +21,20 @@ building things nobody asked for // full-stack
 <a href="https://larpring.github.io/">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://larpring.github.io/badge-light.svg">
-    <img src="https://larpring.github.io/badge.svg" width="88" height="31" alt="larpring webring">
+    <img src="https://larpring.github.io/badge.svg" width="180" alt="Larpring Webring">
   </picture>
 </a>
 
-member of the **larpring** webring &nbsp;·&nbsp; [« prev](https://larpring.github.io/go.html?from=arsh&dir=prev) &nbsp;|&nbsp; [random](https://larpring.github.io/random/) &nbsp;|&nbsp; [next »](https://larpring.github.io/go.html?from=arsh&dir=next)
+<p>
+  <a href="https://larpring.github.io/go.html?from=arsh&dir=prev">
+    <img src="https://img.shields.io/badge/←_prev-2f2f2f?style=for-the-badge" alt="prev">
+  </a>
+  <a href="https://larpring.github.io/random/">
+    <img src="https://img.shields.io/badge/🎲_random-1f883d?style=for-the-badge" alt="random">
+  </a>
+  <a href="https://larpring.github.io/go.html?from=arsh&dir=next">
+    <img src="https://img.shields.io/badge/next_→-2f2f2f?style=for-the-badge" alt="next">
+  </a>
+</p>
 
 </div>
