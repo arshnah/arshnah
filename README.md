@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="./Sayu_Ogiwara_Holding_GO_Programming_Language.png" width="100%" style="border-radius:10px" alt="banner"/>
+</div>
 ```
                                  _/                            _/
     _/_/_/  _/  _/_/    _/_/_/  _/_/_/    _/_/_/      _/_/_/  _/_/_/
