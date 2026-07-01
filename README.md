@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="./Sayu_Ogiwara_Holding_GO_Programming_Language.png" width="100%" style="border-radius:10px" alt="banner"/>
+  <img src="./Sayu_Ogiwara_Holding_GO_Programming_Language.png" width="100%" height="230" style="border-radius:10px;object-fit:cover" alt="banner"/>
 </div>
+
 ```
                                  _/                            _/
     _/_/_/  _/  _/_/    _/_/_/  _/_/_/    _/_/_/      _/_/_/  _/_/_/
