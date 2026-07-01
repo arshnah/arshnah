@@ -18,13 +18,13 @@ building things nobody asked for // full-stack
 
 <div align="center">
 
-<a href="https://arshnah.github.io/vibering/">
+<a href="https://larpring.github.io/">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://arshnah.github.io/vibering/badge-light.svg">
-    <img src="https://arshnah.github.io/vibering/badge.svg" width="88" height="31" alt="vibering webring">
+    <source media="(prefers-color-scheme: light)" srcset="https://larpring.github.io/badge-light.svg">
+    <img src="https://larpring.github.io/badge.svg" width="88" height="31" alt="larpring webring">
   </picture>
 </a>
 
-member of the **vibering** webring &nbsp;·&nbsp; [« prev](https://arshnah.github.io/vibering/go.html?from=arsh&dir=prev) &nbsp;|&nbsp; [random](https://arshnah.github.io/vibering/random/) &nbsp;|&nbsp; [next »](https://arshnah.github.io/vibering/go.html?from=arsh&dir=next)
+member of the **larpring** webring &nbsp;·&nbsp; [« prev](https://larpring.github.io/go.html?from=arsh&dir=prev) &nbsp;|&nbsp; [random](https://larpring.github.io/random/) &nbsp;|&nbsp; [next »](https://larpring.github.io/go.html?from=arsh&dir=next)
 
 </div>
