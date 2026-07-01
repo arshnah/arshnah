@@ -13,3 +13,18 @@ building things nobody asked for // full-stack
   <img src="https://lastly-pi.vercel.app/api/overall?username=arshnahbtw&theme=dark" alt="music stats" width="100%"/>
 </a>
 </div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://arshnah.github.io/vibering/">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://arshnah.github.io/vibering/badge-light.svg">
+    <img src="https://arshnah.github.io/vibering/badge.svg" width="88" height="31" alt="vibering webring">
+  </picture>
+</a>
+
+member of the **vibering** webring &nbsp;·&nbsp; [« prev](https://arshnah.github.io/vibering/go.html?from=arsh&dir=prev) &nbsp;|&nbsp; [random](https://arshnah.github.io/vibering/random/) &nbsp;|&nbsp; [next »](https://arshnah.github.io/vibering/go.html?from=arsh&dir=next)
+
+</div>
