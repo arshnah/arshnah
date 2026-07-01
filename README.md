@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="./Sayu_Ogiwara_Holding_GO_Programming_Language.png" width="500" style="border-radius:10px" alt="banner"/>
+  <img src="./Sayu_Ogiwara_Holding_GO_Programming_Language.png" width="100%" style="border-radius:10px" alt="banner"/>
 </div>
-
 building things nobody asked for // full-stack
 
 [website](https://arshnah.vercel.app) &nbsp;|&nbsp; [lastly](https://lastly-pi.vercel.app) &nbsp;|&nbsp; [discord](https://discord.com/users/arshnah) &nbsp;|&nbsp; [email](mailto:arshjbdarsh@gmail.com)
