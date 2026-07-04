@@ -17,6 +17,12 @@ building things nobody asked for // full-stack
 </a>
 </div>
 
+<div align="center">
+<a href="https://now.arshnah.in">
+  <img src="https://now.arshnah.in/api/card" alt="what arsh is doing right now" width="500"/>
+</a>
+</div>
+
 <br/>
 
 <div align="center">
