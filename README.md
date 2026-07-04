@@ -5,7 +5,13 @@
 </a>
 <div align="center">
 
+### Arshdeep Singh
+
+<sub>**arshnah** &middot; also **Arseoholic**</sub>
+
 building things nobody asked for // full-stack
+
+a solo full-stack developer from India. i build websites, apps, and the systems that run them — the [LarpRing](https://larpring.github.io) webring, [CipherDrop](https://drop.arshnah.in) (zero-knowledge file drops), [Wisp](https://chat.arshnah.in) (end-to-end encrypted chat), and small dumb websites like the [now page](https://now.arshnah.in). more at **[arshnah.in](https://arshnah.in)**.
 
 [website](https://arshnah.in) &nbsp;|&nbsp; [discord](https://discord.com/users/300137175238836225) &nbsp;|&nbsp; [email](mailto:arshjbdarsh@gmail.com)
 
