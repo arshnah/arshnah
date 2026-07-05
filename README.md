@@ -18,8 +18,8 @@ a solo full-stack developer from India. i build websites, apps, and the systems 
 </div>
 
 <div align="center">
-<a href="https://www.last.fm/user/arshnahbtw">
-  <img src="https://lastly-pi.vercel.app/api/now-playing?username=arshnahbtw&theme=dark" alt="now playing" width="500"/>
+<a href="https://playlist.arshnah.in/">
+  <img src="https://api.arshnah.in/api/now-playing?svg=true" alt="now playing" width="500"/>
 </a>
 </div>
 
