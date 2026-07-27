@@ -16,7 +16,7 @@
 <a href="https://now.arshnah.in">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://now.arshnah.in/api/focus?theme=light">
-    <img src="https://now.arshnah.in/api/focus" alt="what i'm focused on" width="820"/>
+    <img src="https://now.arshnah.in/api/focus" alt="what i'm focused on" width="419"/>
   </picture>
 </a>
 </div>
@@ -34,7 +34,7 @@
 <a href="https://now.arshnah.in">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://now.arshnah.in/api/card?theme=light">
-    <img src="https://now.arshnah.in/api/card" alt="what arsh is doing right now" width="820"/>
+    <img src="https://now.arshnah.in/api/card" alt="what arsh is doing right now" width="419"/>
   </picture>
 </a>
 </div>
