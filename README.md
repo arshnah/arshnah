@@ -13,19 +13,19 @@
 </div>
 
 <div align="center">
-<a href="https://now.arshnah.in">
+<a href="https://www.last.fm/user/arshnahbtw">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://now.arshnah.in/api/focus?theme=light">
-    <img src="https://now.arshnah.in/api/focus" alt="what i'm focused on" width="419"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://lastly-pi.vercel.app/api/now-playing?username=arshnah,arshnahbtw&theme=arsh-light">
+    <img src="https://lastly-pi.vercel.app/api/now-playing?username=arshnah,arshnahbtw&theme=arsh" alt="now playing" width="820"/>
   </picture>
 </a>
 </div>
 
 <div align="center">
-<a href="https://www.last.fm/user/arshnahbtw">
+<a href="https://now.arshnah.in">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://lastly-pi.vercel.app/api/now-playing?username=arshnah,arshnahbtw&theme=arsh-light">
-    <img src="https://lastly-pi.vercel.app/api/now-playing?username=arshnah,arshnahbtw&theme=arsh" alt="now playing" width="436"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://now.arshnah.in/api/focus?theme=light">
+    <img src="https://now.arshnah.in/api/focus" alt="what i'm focused on" width="419"/>
   </picture>
 </a>
 </div>
