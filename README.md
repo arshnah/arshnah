@@ -7,23 +7,9 @@
 <a href="https://arshnah.in">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://arshnah.in/api/neofetch?theme=light">
-    <img src="https://arshnah.in/api/neofetch" alt="Arshdeep Singh (arshnah), also known as Arseoholic — a solo full-stack developer from India building websites, apps and the systems that run them, including the LarpRing webring, CipherDrop zero-knowledge file drops, and Wisp end-to-end encrypted chat. Live GitHub stats: account age, location, top languages, public repos, stars and followers." width="500"/>
+    <img src="https://arshnah.in/api/neofetch" alt="Arshdeep Singh (arshnah), also known as Arseoholic — a solo full-stack developer from India building websites, apps and the systems that run them, including the LarpRing webring, CipherDrop zero-knowledge file drops, and Wisp end-to-end encrypted chat. Live GitHub stats: account age, location, top languages, public repos, stars and followers." width="820"/>
   </picture>
 </a>
-</div>
-
-<div align="center">
-
-### Arshdeep Singh
-
-<sub>**arshnah** &middot; also **Arseoholic**</sub>
-
-building things nobody asked for // full-stack
-
-a solo full-stack developer from India. i build websites, apps, and the systems that run them — the [LarpRing](https://larpring.github.io) webring, [CipherDrop](https://drop.arshnah.in) (zero-knowledge file drops), [Wisp](https://chat.arshnah.in) (end-to-end encrypted chat), and small dumb websites like the [now page](https://now.arshnah.in). more at **[arshnah.in](https://arshnah.in)**.
-
-[website](https://arshnah.in) &nbsp;|&nbsp; [discord](https://discord.com/users/300137175238836225) &nbsp;|&nbsp; [email](mailto:arshjbdarsh@gmail.com)
-
 </div>
 
 <div align="center">
@@ -51,6 +37,20 @@ a solo full-stack developer from India. i build websites, apps, and the systems 
     <img src="https://now.arshnah.in/api/card?bar=bottom" alt="what arsh is doing right now" width="500"/>
   </picture>
 </a>
+</div>
+
+<div align="center">
+
+### Arshdeep Singh
+
+<sub>**arshnah** &middot; also **Arseoholic**</sub>
+
+building things nobody asked for // full-stack
+
+a solo full-stack developer from India. i build websites, apps, and the systems that run them — the [LarpRing](https://larpring.github.io) webring, [CipherDrop](https://drop.arshnah.in) (zero-knowledge file drops), [Wisp](https://chat.arshnah.in) (end-to-end encrypted chat), and small dumb websites like the [now page](https://now.arshnah.in). more at **[arshnah.in](https://arshnah.in)**.
+
+[website](https://arshnah.in) &nbsp;|&nbsp; [discord](https://discord.com/users/300137175238836225) &nbsp;|&nbsp; [email](mailto:arshjbdarsh@gmail.com)
+
 </div>
 
 <br/>
