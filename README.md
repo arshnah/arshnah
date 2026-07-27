@@ -16,7 +16,7 @@
 <a href="https://now.arshnah.in">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://now.arshnah.in/api/focus?theme=light">
-    <img src="https://now.arshnah.in/api/focus" alt="what i'm focused on" width="500"/>
+    <img src="https://now.arshnah.in/api/focus" alt="what i'm focused on" width="820"/>
   </picture>
 </a>
 </div>
@@ -25,7 +25,7 @@
 <a href="https://www.last.fm/user/arshnahbtw">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://lastly-pi.vercel.app/api/now-playing?username=arshnah,arshnahbtw&theme=arsh-light">
-    <img src="https://lastly-pi.vercel.app/api/now-playing?username=arshnah,arshnahbtw&theme=arsh" alt="now playing" width="500"/>
+    <img src="https://lastly-pi.vercel.app/api/now-playing?username=arshnah,arshnahbtw&theme=arsh" alt="now playing" width="436"/>
   </picture>
 </a>
 </div>
@@ -33,8 +33,8 @@
 <div align="center">
 <a href="https://now.arshnah.in">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://now.arshnah.in/api/card?theme=light&bar=bottom">
-    <img src="https://now.arshnah.in/api/card?bar=bottom" alt="what arsh is doing right now" width="500"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://now.arshnah.in/api/card?theme=light">
+    <img src="https://now.arshnah.in/api/card" alt="what arsh is doing right now" width="820"/>
   </picture>
 </a>
 </div>
