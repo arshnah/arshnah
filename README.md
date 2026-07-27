@@ -4,6 +4,15 @@
   <img src="https://random-banner.vercel.app/api/banner" width="100%" alt="banner"/>
 </a>
 <div align="center">
+<a href="https://arshnah.in">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://arshnah.in/api/neofetch?theme=light">
+    <img src="https://arshnah.in/api/neofetch" alt="Arshdeep Singh (arshnah), also known as Arseoholic — a solo full-stack developer from India building websites, apps and the systems that run them, including the LarpRing webring, CipherDrop zero-knowledge file drops, and Wisp end-to-end encrypted chat. Live GitHub stats: account age, location, top languages, public repos, stars and followers." width="500"/>
+  </picture>
+</a>
+</div>
+
+<div align="center">
 
 ### Arshdeep Singh
 
