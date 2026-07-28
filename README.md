@@ -6,8 +6,35 @@
 <div align="center">
 <a href="https://arshnah.in">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://arshnah.in/api/stack?theme=light">
-    <img src="https://arshnah.in/api/stack" alt="Arshdeep Singh (arshnah), also known as Arseoholic — a solo full-stack developer from India building websites, apps and the systems that run them, including the LarpRing webring, CipherDrop zero-knowledge file drops, and Wisp end-to-end encrypted chat. Live: GitHub account age, location, top languages, repos, stars, followers and a year of contributions; the last commit shipped; what's playing on Last.fm; and current status, coding time and what I'm working on." width="820"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://arshnah.in/api/neofetch?theme=light">
+    <img src="https://arshnah.in/api/neofetch" alt="Arshdeep Singh (arshnah), also known as Arseoholic — a solo full-stack developer from India building websites, apps and the systems that run them, including the LarpRing webring, CipherDrop zero-knowledge file drops, and Wisp end-to-end encrypted chat. Live GitHub stats: account age, location, top languages, public repos, stars and followers." width="820"/>
+  </picture>
+</a>
+</div>
+
+<div align="center">
+<a href="https://www.last.fm/user/arshnahbtw">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://lastly-pi.vercel.app/api/now-playing?username=arshnahbtw,arshnah&theme=arsh-light">
+    <img src="https://lastly-pi.vercel.app/api/now-playing?username=arshnahbtw,arshnah&theme=arsh" alt="now playing" width="820"/>
+  </picture>
+</a>
+</div>
+
+<div align="center">
+<a href="https://now.arshnah.in">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://now.arshnah.in/api/focus?theme=light">
+    <img src="https://now.arshnah.in/api/focus" alt="what i'm focused on" width="820"/>
+  </picture>
+</a>
+</div>
+
+<div align="center">
+<a href="https://now.arshnah.in">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://now.arshnah.in/api/card?theme=light">
+    <img src="https://now.arshnah.in/api/card" alt="what arsh is doing right now" width="820"/>
   </picture>
 </a>
 </div>
