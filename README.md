@@ -7,7 +7,16 @@
 <a href="https://arshnah.in">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://arshnah.in/api/neofetch?theme=light">
-    <img src="https://arshnah.in/api/neofetch" alt="Arshdeep Singh (arshnah), also known as Arseoholic — a solo full-stack developer from India building websites, apps and the systems that run them, including the LarpRing webring, CipherDrop zero-knowledge file drops, and Wisp end-to-end encrypted chat. Live GitHub stats: account age, location, top languages, public repos, stars and followers." width="820"/>
+    <img src="https://arshnah.in/api/neofetch" alt="Arshdeep Singh (arshnah), also known as Arseoholic — a solo full-stack developer from India building websites, apps and the systems that run them, including the LarpRing webring, CipherDrop zero-knowledge file drops, and Wisp end-to-end encrypted chat. Live GitHub stats: account age, location, public repos, stars and followers." width="820"/>
+  </picture>
+</a>
+</div>
+
+<div align="center">
+<a href="https://arshnah.in">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://arshnah.in/api/languages?theme=light">
+    <img src="https://arshnah.in/api/languages" alt="most used languages by real code volume, not repo count" width="820"/>
   </picture>
 </a>
 </div>
