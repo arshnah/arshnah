@@ -65,7 +65,7 @@
 
 building things nobody asked for // full-stack
 
-a solo full-stack developer from India. i build websites, apps, and the systems that run them — the [LarpRing](https://larpring.github.io) webring, [CipherDrop](https://drop.arshnah.in) (zero-knowledge file drops), [Wisp](https://chat.arshnah.in) (end-to-end encrypted chat), and small dumb websites like the [now page](https://now.arshnah.in) — plus the odd detour into other people's codebases, like rewriting [Marked Goats](https://github.com/arshnah/marked-goats/tree/stonecutter-remake)'s build system onto Stonecutter for full multi-version, multi-loader Minecraft support. more at **[arshnah.in](https://arshnah.in)**.
+a solo full-stack developer from India. i build websites, apps, and the systems that run them — the [LarpRing](https://larpring.github.io) webring, [CipherDrop](https://drop.arshnah.in) (zero-knowledge file drops), [Wisp](https://chat.arshnah.in) (end-to-end encrypted chat), and small dumb websites like the [now page](https://now.arshnah.in), rewrote [Marked Goats](https://github.com/arshnah/marked-goats/tree/stonecutter-remake)'s build system onto Stonecutter for full multi-version, multi-loader Minecraft support. more at **[arshnah.in](https://arshnah.in)**.
 <sub><sup>i like bollywood music ALOT.</sup></sub>
 
 [website](https://arshnah.in) &nbsp;|&nbsp; [discord](https://discord.com/users/300137175238836225) &nbsp;|&nbsp; [email](mailto:arshjbdarsh@gmail.com)
