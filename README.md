@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://arshnah.in/">
-  <img src="https://random-banner.vercel.app/api/banner" width="100%" alt="banner"/>
+  <img src="https://random-banner.arshnah.in/api/banner" width="100%" alt="banner"/>
 </a>
 <div align="center">
 <a href="https://arshnah.in">
