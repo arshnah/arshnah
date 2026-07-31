@@ -24,8 +24,8 @@
 <div align="center">
 <a href="https://www.last.fm/user/arshnahbtw">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://lastly-pi.vercel.app/api/now-playing?username=arshnahbtw,arshnah&theme=arsh-light">
-    <img src="https://lastly.arshnah.in/api/now-playing?username=arshnahbtw,arshnah&theme=arsh" alt="now playing" width="820"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://lastly.arshnah.in/api/now-playing?username=arshnahbtw%2Carshnah&theme=arsh-light">
+    <img src="https://lastly.arshnah.in/api/now-playing?username=arshnahbtw%2Carshnah&theme=arsh" alt="now playing" width="820"/>
   </picture>
 </a>
 </div>
@@ -51,8 +51,8 @@
 <div align="center">
 <a href="https://discord.com/users/300137175238836225">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://lanyard.arshnah.in/api/300137175238836225,1352866897900732446?theme=light&bg=00000000&idleMessage=Eating%20Burgers&animated=true&animatedDecoration=true&showDisplayName=true&hideActivity=true">
-    <img src="https://lanyard.arshnah.in/api/300137175238836225,1352866897900732446?hideSpotify=true&theme=dark&bg=00000000&idleMessage=Eating%20Burgers&animated=true&animatedDecoration=true&showDisplayName=true&hideActivity=true" alt="Discord Presence" width="400"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://lanyard.arshnah.in/api/300137175238836225%2C1352866897900732446?hideSpotify=true&theme=light&bg=00000000&idleMessage=Eating%20Burgers&animated=true&animatedDecoration=true&showDisplayName=true&hideActivity=true">
+    <img src="https://lanyard.arshnah.in/api/300137175238836225%2C1352866897900732446?hideSpotify=true&theme=dark&bg=00000000&idleMessage=Eating%20Burgers&animated=true&animatedDecoration=true&showDisplayName=true&hideActivity=true" alt="Discord Presence" width="400"/>
   </picture>
 </a>
 </div>
