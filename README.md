@@ -31,6 +31,15 @@
 </div>
 
 <div align="center">
+<a href="https://www.last.fm/user/arshnahbtw">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://lastly.arshnah.in/api/lyrics?username=arshnahbtw%2Carshnah&theme=arsh-light">
+    <img src="https://lastly.arshnah.in/api/lyrics?username=arshnahbtw%2Carshnah&theme=arsh" alt="lyrics" width="820"/>
+  </picture>
+</a>
+</div>
+
+<div align="center">
 <a href="https://now.arshnah.in">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://now.arshnah.in/api/focus?theme=light">
