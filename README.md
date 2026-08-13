@@ -60,8 +60,8 @@
 <div align="center">
 <a href="https://discord.com/users/300137175238836225">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://lanyard.arshnah.in/api/300137175238836225%2C1352866897900732446?hideSpotify=true&theme=light&bg=00000000&idleMessage=Eating%20Burgers&animated=true&animatedDecoration=true&showDisplayName=true&hideActivity=true">
-    <img src="https://lanyard.arshnah.in/api/300137175238836225%2C1352866897900732446?hideSpotify=true&theme=dark&bg=00000000&idleMessage=Eating%20Burgers&animated=true&animatedDecoration=true&showDisplayName=true&hideActivity=true" alt="Discord Presence" width="400"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://lanyard.arshnah.in/api/300137175238836225%2C1352866897900732446?hideSpotify=true&theme=light&bg=00000000&idleMessage=Eating%20Burgers&animated=true&animatedDecoration=true&showDisplayName=true&hideActivity=true&source=self">
+    <img src="https://lanyard.arshnah.in/api/300137175238836225%2C1352866897900732446?hideSpotify=true&theme=dark&bg=00000000&idleMessage=Eating%20Burgers&animated=true&animatedDecoration=true&showDisplayName=true&hideActivity=true&source=self" alt="Discord Presence" width="400"/>
   </picture>
 </a>
 </div>
