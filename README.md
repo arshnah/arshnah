@@ -7,7 +7,7 @@
 <a href="https://arshnah.in">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://arshnah.in/api/neofetch?theme=light">
-    <img src="https://arshnah.in/api/neofetch" alt="Arshdeep Singh (arshnah), also known as Arseoholic — a solo full-stack developer from India building websites, apps and the systems that run them, including the LarpRing webring, CipherDrop zero-knowledge file drops, and Wisp end-to-end encrypted chat. Live GitHub stats: account age, location, public repos, stars and followers." width="820"/>
+    <img src="https://arshnah.in/api/neofetch" alt="Arshdeep Singh (arshnah), also known as Arseoholic — a solo full-stack developer from India building websites, apps and the systems that run them, including the LarpRing webring, CipherDrop zero-knowledge file drops, Wisp end-to-end encrypted chat, detsim (deterministic simulation testing for Go) and zkaudit (audits zero-knowledge claims against real browser traffic). Live GitHub stats: account age, location, public repos, stars and followers." width="820"/>
   </picture>
 </a>
 </div>
@@ -74,7 +74,7 @@
 
 building things nobody asked for // full-stack
 
-a solo full-stack developer from India. i build websites, apps, and the systems that run them; the [LarpRing](https://larpring.github.io) webring, [CipherDrop](https://drop.arshnah.in) (zero-knowledge file drops) and small dumb websites like the [now page](https://now.arshnah.in), rewrote [Marked Goats](https://github.com/arshnah/marked-goats/tree/stonecutter-remake)'s build system onto Stonecutter for full multi-version, multi-loader Minecraft support. more at **[arshnah.in](https://arshnah.in)**.
+a solo full-stack developer from India. i build websites, apps, and the systems that run them; the [LarpRing](https://larpring.github.io) webring, [CipherDrop](https://drop.arshnah.in) (zero-knowledge file drops) and small dumb websites like the [now page](https://now.arshnah.in), rewrote [Marked Goats](https://github.com/arshnah/marked-goats/tree/stonecutter-remake)'s build system onto Stonecutter for full multi-version, multi-loader Minecraft support. lately i've been building infra-flavored tools too: [detsim](https://github.com/arshnah/detsim), a deterministic simulation testing library for Go in the FoundationDB/TigerBeetle style, and [zkaudit](https://github.com/arshnah/zkaudit), a CLI that checks whether a "zero-knowledge" claim actually holds by scanning real browser traffic. more at **[arshnah.in](https://arshnah.in)**.
 <sub><sup>i like bollywood music ALOT.</sup></sub>
 
 [website](https://arshnah.in) &nbsp;|&nbsp; [discord](https://discord.com/users/300137175238836225) &nbsp;|&nbsp; [email](mailto:arshjbdarsh@gmail.com)
