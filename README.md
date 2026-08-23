@@ -31,33 +31,6 @@
 </div>
 
 <div align="center">
-<a href="https://www.last.fm/user/arshnahbtw">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://lastly.arshnah.in/api/lyrics?username=arshnahbtw%2Carshnah&theme=arsh-light">
-    <img src="https://lastly.arshnah.in/api/lyrics?username=arshnahbtw%2Carshnah&theme=arsh" alt="lyrics" width="820"/>
-  </picture>
-</a>
-</div>
-
-<div align="center">
-<a href="https://now.arshnah.in">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://now.arshnah.in/api/focus?theme=light">
-    <img src="https://now.arshnah.in/api/focus" alt="what i'm focused on" width="820"/>
-  </picture>
-</a>
-</div>
-
-<div align="center">
-<a href="https://now.arshnah.in">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://now.arshnah.in/api/card?theme=light">
-    <img src="https://now.arshnah.in/api/card" alt="what arsh is doing right now" width="820"/>
-  </picture>
-</a>
-</div>
-
-<div align="center">
 <a href="https://discord.com/users/300137175238836225">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://lanyard.arshnah.in/api/300137175238836225%2C1352866897900732446?hideSpotify=true&theme=light&bg=00000000&idleMessage=Eating%20Burgers&animated=true&animatedDecoration=true&showDisplayName=true&hideActivity=true&source=self">
