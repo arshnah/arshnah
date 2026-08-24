@@ -13,15 +13,6 @@
 </div>
 
 <div align="center">
-<a href="https://arshnah.in">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://arshnah.in/api/languages?theme=light">
-    <img src="https://arshnah.in/api/languages" alt="most used languages by real code volume, not repo count" width="820"/>
-  </picture>
-</a>
-</div>
-
-<div align="center">
 <a href="https://www.last.fm/user/arshnahbtw">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://lastly.arshnah.in/api/now-playing?username=arshnahbtw%2Carshnah&theme=arsh-light">
