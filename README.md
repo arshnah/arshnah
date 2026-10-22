@@ -69,3 +69,7 @@ a solo full-stack developer from India. i build websites, apps, and the systems 
 </p>
 
 </div>
+<a href="https://arsh.wayship.link"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://wayship.link/api/users/300137175238836225/badge.svg?show=avatar,name,handle,status,music&theme=dark">
+  <img alt="Arsh. on Wayship" src="https://wayship.link/api/users/300137175238836225/badge.svg?show=avatar,name,handle,status,music&theme=light">
+</picture></a>
