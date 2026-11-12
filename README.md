@@ -34,7 +34,7 @@
 
 ### Arshdeep Singh
 
-<sub>**arshnah** &middot; also **Arseoholic**</sub>
+<sub> &middot; **arshnah** &middot; </sub>
 
 building things nobody asked for // full-stack
 
