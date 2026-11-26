@@ -73,4 +73,7 @@ a solo developer from India. i build websites, apps, and the systems that run th
   <source media="(prefers-color-scheme: dark)" srcset="https://wayship.link/api/users/300137175238836225/badge.svg?theme=dark">
   <img alt="Arsh. on Wayship" src="https://wayship.link/api/users/300137175238836225/badge.svg?theme=light">
 </picture></a>
-[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/arshnah/badge.svg)](https://hub.xerj.org/contributors/arshnah)
+
+<a href="https://hub.xerj.org/contributors/arshnah"><picture>
+  <img alt="Arsh. on xerj" src="https://hub.xerj.org/contributors/arshnah/badge.svg">
+</picture></a>
